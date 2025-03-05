@@ -3,5 +3,6 @@ livekit-plugins-openai
 livekit-plugins-deepgram
 livekit-plugins-silero
 livekit-plugins-cartesia
+livekit-plugins-rag
 python-dotenv
 requests
