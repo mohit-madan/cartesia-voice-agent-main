@@ -1,0 +1,58 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# Node.js / React
+node_modules/
+dist/
+build/
+.next/
+.npm/
+.yarn/
+yarn-error.log
+package-lock.json
+yarn.lock
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+.cache/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+*.sqlite3
+db.sqlite3
+instance/
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+*.ipynb_checkpoints
+Pipfile
+Pipfile.lock
+
+# Virtual Environment
+.venv/
+.conda/
+.env
+
+# Logs and IDE files
+*.swp
+.idea/
+.vscode/
+*.iml
+
+# Misc
+*.tmp
+*.out
